@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "Test\Test.vcxproj",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arrays", "Arrays\Arrays.vcxproj", "{3FF3078F-5EEB-4AFD-8842-7491717DC824}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Regexp", "Regexp\Regexp.vcxproj", "{011D167E-2162-4A75-B256-EB25A1B7F2E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{3FF3078F-5EEB-4AFD-8842-7491717DC824}.Release|x64.Build.0 = Release|x64
 		{3FF3078F-5EEB-4AFD-8842-7491717DC824}.Release|x86.ActiveCfg = Release|Win32
 		{3FF3078F-5EEB-4AFD-8842-7491717DC824}.Release|x86.Build.0 = Release|Win32
+		{011D167E-2162-4A75-B256-EB25A1B7F2E2}.Debug|x64.ActiveCfg = Debug|x64
+		{011D167E-2162-4A75-B256-EB25A1B7F2E2}.Debug|x64.Build.0 = Debug|x64
+		{011D167E-2162-4A75-B256-EB25A1B7F2E2}.Debug|x86.ActiveCfg = Debug|Win32
+		{011D167E-2162-4A75-B256-EB25A1B7F2E2}.Debug|x86.Build.0 = Debug|Win32
+		{011D167E-2162-4A75-B256-EB25A1B7F2E2}.Release|x64.ActiveCfg = Release|x64
+		{011D167E-2162-4A75-B256-EB25A1B7F2E2}.Release|x64.Build.0 = Release|x64
+		{011D167E-2162-4A75-B256-EB25A1B7F2E2}.Release|x86.ActiveCfg = Release|Win32
+		{011D167E-2162-4A75-B256-EB25A1B7F2E2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
